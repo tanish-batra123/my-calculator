@@ -21,4 +21,4 @@ A simple and responsive calculator built using **HTML, CSS, and JavaScript**. It
 4. Click `C` to clear input.  
 
 ## 🌐 Live Demo  
-🔗 [https://tanish-batra123.github.io/my-calculator/](https://mycalculator.com
+🔗 [tanish-batra123.github.io/my-calculator/]
