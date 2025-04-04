@@ -67,3 +67,6 @@ button{
 .operator-col{
     color: green;
 }
+body {
+  touch-action: manipulation; /* Prevents double-tap zoom */
+}
